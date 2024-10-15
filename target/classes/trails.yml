@@ -1,0 +1,19 @@
+purshable-trails:
+  statistics-type: SPIRITS
+
+
+heart:
+  display-name: "&cHearts"
+  price: 5000
+  available: true
+  description:
+    - "   "
+    - "&7Infuse your %type% with love, leaving a heartwarming trail!"
+    - "&7Enchanting all who see it with every shot!"
+    - "&7Price: %price%"
+    - "   "
+  selection-type: true # Viewable only by players who own it
+  selection-type-description:
+    - "State: %state%"
+
+
